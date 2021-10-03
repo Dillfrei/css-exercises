@@ -1,0 +1,16 @@
+.impar{
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+#doi{
+    color: blue;
+    font-size: 36px;
+}
+.suplimentar{
+    font-size: 24px;
+}
+#patru{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
