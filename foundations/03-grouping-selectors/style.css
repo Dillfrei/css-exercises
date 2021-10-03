@@ -1,0 +1,14 @@
+.dragut, 
+.urat {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.dragut {
+background-color: black;
+color: white;
+}
+
+.urat {
+    background-color: yellow;
+}
